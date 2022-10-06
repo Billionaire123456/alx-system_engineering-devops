@@ -1,1 +1,1 @@
-am an alx student
+This repository contains solutions to shell tasks
